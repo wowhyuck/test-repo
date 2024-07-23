@@ -1,2 +1,2 @@
 #include "Monster.h"
-int MAINFUNC() {}
+int MAINFUNC()
